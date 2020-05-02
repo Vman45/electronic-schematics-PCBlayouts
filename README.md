@@ -1,2 +1,2 @@
 # electronic-schematics-PCBlayouts
-repository about making electronic schematics and PCB layouts 
+repository about electronic schematics and PCB layouts 
